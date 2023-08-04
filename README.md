@@ -1,5 +1,7 @@
 # Earthquake Magnitude vs. Depth Analysis
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project analyzes earthquake data obtained from the USGS (United States Geological Survey) and explores the relationship between earthquake magnitudes and depths. The data is retrieved from the USGS earthquake feed API, and the analysis is performed using Python.
 
 ## Requirements
@@ -43,10 +45,6 @@ The plotted graph will display the correlation between earthquake magnitudes and
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues or have ideas for improvement, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
