@@ -1,7 +1,3 @@
-Sure! Below is a sample GitHub README file for your earthquake data analysis project:
-
----
-
 # Earthquake Magnitude vs. Depth Analysis
 
 This project analyzes earthquake data obtained from the USGS (United States Geological Survey) and explores the relationship between earthquake magnitudes and depths. The data is retrieved from the USGS earthquake feed API, and the analysis is performed using Python.
