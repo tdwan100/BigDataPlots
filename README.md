@@ -51,9 +51,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - The earthquake data used in this project is provided by the USGS (United States Geological Survey). Visit their website at [https://earthquake.usgs.gov](https://earthquake.usgs.gov) for more information.
-
----
-
-Replace `your-username` with your GitHub username in the installation section. Make sure to include the actual license file (LICENSE) and the Python script (earthquake_analysis.py) in your repository. You can also add a section for the data sources or any other relevant information.
-
-Remember to personalize the README according to your specific project details. The README serves as a quick introduction and guide for others who visit your GitHub repository.
